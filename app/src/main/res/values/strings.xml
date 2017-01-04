@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Asystent głosowy</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="command_error">Nie istnieje taka komenda</string>
+    <string name="tell_files_normal">liczba plików i folderów to </string>
+    <string name="tell_files_music">liczba plików muzycznych to </string>
+    <string name="tell_files_books">liczba książek to </string>
+    <string name="folderName">folder</string>
+    <string name="fileName">plik</string>
+    <string name="tell_contacts">Lista kontaktów</string>
+
+    <string-array name="help">
+        <item>powraca do folderu nadrzędnego</item>
+        <item>wymienia liste plików i folderów</item>
+        <item>wyczytuje wyłącznie liste plików muzycznych</item>
+        <item>odczytanie listy plików w formacie .epub</item>
+        <item>po komendzie należy podać numer folderu, następnie zostanie otwarty ten folder i odczytane nazwy plików i folderów</item>
+
+        <item>komenda sterująca muzyką, zmiana na następny folder rozpoczęcie odtwarzania od pierwszego utworu</item>
+        <item>komenda sterująca muzyką, zmiana na poprzedni folder rozpoczęcie odtwarzania od pierwszego utworu</item>
+        <item>komenda sterująca muzyką, rozpoczęcie odtwarzania następnego pliku muzycznego</item>
+        <item>komenda sterująca muzyką, rozpoczęcie odtwarzania poprzedniego pliku muzycznego</item>
+        <item>komenda sterująca muzyką, rozpoczęcie odtwarzania 1 pliku muzycznego znajdującego się w folderze</item>
+
+        <item>komenda sterująca muzyką, zatrzymanie odtwarzania muzyki</item>
+        <item>komenda sterująca muzyką, kontynuowanie odtwarzania muzyki, od zapamiętanej pozycji</item>
+        <item>komenda sterująca menadżerem plików, przejście do wcześniej zdefiniowanego folderu muzycznego</item>
+        <item>komenda sterująca czytaniem książek, po komendzie należy podać numer książki pod względem listy książek, rozpoczęcie czytania książki, jeżeli książka była odczytywana wcześniej czytanie zostanie rozpoczęte od ostatniej linii</item>
+        <item>komenda sterująca czytaniem książek, jeżeli wcześniej była czytana książka zostanie wznowione czytanie tej książki od ostatniej pozycji</item>
+
+        <item>komenda sterująca czytaniem książek, zatrzyma odczytywanie książki oraz zapisze pozycje</item>
+        <item>komenda sterująca czytaniem książek, po komendzie należy podać numer lini, książka zostanie przewinięta do tej linii</item>
+        <item>komenda sterująca menadżerem plików, przejście do wcześniej zdefiniowanego folderu z książkami</item>
+        <item>komenda sterująca menadżerem plików, zapisuje aktualny folder jako folder muzyczny</item>
+        <item>komenda sterująca menadżerem plików, zapisuje aktualny folder jako folder z książkami</item>
+
+        <item>komenda sterująca połączeniami głosowymi, po komendzie należy podać numer, następnie zostanie uruchomiony dialer który dzwoni na podany numer</item>
+        <item>komenda sterująca połączeniami głosowymi, odczytuje liste kontaktów</item>
+        <item>komenda sterująca połączeniami głosowymi, po komendzie należy podać numer kontaktu z odczytanej listy kontaktów, następnie zostanie wykonane połączenie na ten numer</item>
+        <item>komenda sterująca czytaniem książek, odczytuje ilość linii w odczytywanej książce</item>
+        <item>komenda sterująca wiadomościami tekstowymi, zostanie odczytana lista wątków (posortowane względem daty) i odczytana w formie nazwy adresata/odbiorcy z listy kontaktów lub jeżeli podanego numer nie ma zapisanego to w formie numeru telefonu</item>
+
+        <item>komenda sterująca wiadomościami tekstowymi, po komendzie należy podać numer wątku z listy wątków, następnie zostaną odczytane wiadomości (od najnowszej)</item>
+        <item>komenda sterująca wiadomościami tekstowymi, po komendzie należy podać treść wiadomości, zostaniesz poproszony o potwierdzenie wysłania</item>
+        <item>komenda sterująca wiadomościami tekstowymi, komenda potwierdzająca wysłanie wiadomości tekstowej</item>
+        <item>odczytuje godzine</item>
+
+        <item>czyta listę subskrypcji</item>
+        <item>odczytuje listę subskrypcji od podanej pozycji</item>
+        <item>rozpoczyna czytanie wiadomości z wybranej subskrypcji</item>
+        <item>odczytuje listę tematów z wybranej wcześniej subskrypcji</item>
+
+        <item>odczytuje listę tematów z wybranej wcześniej subskrypcji od wybranej pozycji</item>
+        <item>czyta opis wybranego artykułu</item>
+        <item>czyta całość artykułu</item>
+        <item>aktualizuje wiadomości w czytniku rss</item>
+        <item>opowiada kawał</item>
+    </string-array>
+
+    <string name="end">KONIEC</string>
+    <string name="book_not_exist">Nie ma takiej pozycji</string>
+    <string name="message_from">.   wiadomość od </string>
+    <string name="message_in">odebrałeś  </string>
+    <string name="message_out">wysłałeś  </string>
+    <string name="conversation_not_selected">Nie wybrałeś żadnej konwersacji</string>
+    <string name="message_confirmation">Czy chcesz wysłać wiadomość o treści </string>
+    <string name="message_send">wysłano wiadomość</string>
+    <string name="message_send_error">wysyłanie nie powiodło się</string>
+
+    <string-array name="hours">
+        <item>pierwsza</item>
+        <item>druga</item>
+        <item>trzecia</item>
+        <item>czwarta</item>
+        <item>piąta</item>
+        <item>szósta</item>
+        <item>siódma</item>
+        <item>ósma</item>
+        <item>dziewiąta</item>
+        <item>dziesiąta</item>
+        <item>jedenasta</item>
+        <item>dwunasta</item>
+    </string-array>
+
+    <string name="is_hour">Jest godzina </string>
+    <string name="subscription"> subskrypcja, </string>
+    <string name="number_of_bound">podany numer jest z poza zakresu</string>
+    <string name="subscription_not_found">nie ma takiej subskrypcji lub nie pobrano do niej danych. Spróbuj użyć komendy do zakutalizowania czytnika</string>
+    <string name="element_not_found">nie ma takiego elementu listy</string>
+    <string name="update_rss">Aktualizuje wiadomości</string>
+    <string name="application_started">Załadowano aplikacje</string>
+    <string name="loading_jokes">Laduje liste kawałów</string>
+</resources>

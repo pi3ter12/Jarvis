@@ -1,0 +1,263 @@
+[
+  {
+    "id":0,
+    "commandNumber":1,
+    "command": "poprzedni folder",
+    "approximately":false
+  },
+  {
+    "id":1,
+    "commandNumber":1,
+    "command": "nadrzędny folder",
+    "approximately":false
+  },
+  {
+    "id":2,
+    "commandNumber":2,
+    "command": "lista",
+    "approximately":false
+  },
+  {
+    "id":3,
+    "commandNumber":3,
+    "command": "lista muzyki",
+    "approximately":false
+  },
+  {
+    "id":4,
+    "commandNumber":4,
+    "command": "lista książek",
+    "approximately":false
+  },
+  {
+    "id":5,
+    "commandNumber":5,
+    "command": "numer",
+    "approximately":true
+  },
+
+
+  {
+    "id":6,
+    "commandNumber":6,
+    "command": "następna płyta",
+    "approximately":false
+  },
+  {
+    "id":7,
+    "commandNumber":7,
+    "command": "poprzednia płyta",
+    "approximately":false
+  },
+  {
+    "id":8,
+    "commandNumber":8,
+    "command": "następny utwór",
+    "approximately":false
+  },
+  {
+    "id":9,
+    "commandNumber":9,
+    "command": "poprzedni utwór",
+    "approximately":false
+  },
+  {
+    "id":8,
+    "commandNumber":8,
+    "command": "next",
+    "approximately":false
+  },
+  {
+    "id":9,
+    "commandNumber":9,
+    "command": "wstecz",
+    "approximately":false
+  },
+  {
+    "id":10,
+    "commandNumber":10,
+    "command": "odtwarzaj",
+    "approximately":false
+  },
+  {
+    "id":11,
+    "commandNumber":11,
+    "command": "pauza",
+    "approximately":false
+  },
+  {
+    "id":12,
+    "commandNumber":12,
+    "command": "kontynuuj",
+    "approximately":false
+  },
+  {
+    "id":13,
+    "commandNumber":13,
+    "command": "folder muzyczny",
+    "approximately":false
+  },
+
+
+  {
+    "id":14,
+    "commandNumber":14,
+    "command": "czytaj książkę",
+    "approximately":true
+  },
+  {
+    "id":15,
+    "commandNumber":15,
+    "command": "kontynuuj czytanie",
+    "approximately":false
+  },
+  {
+    "id":16,
+    "commandNumber":16,
+    "command": "zatrzymaj czytanie",
+    "approximately":false
+  },
+  {
+    "id":17,
+    "commandNumber":17,
+    "command": "przewiń czytanie do lini",
+    "approximately":true
+  },
+  {
+    "id":17,
+    "commandNumber":17,
+    "command": "ustaw linie",
+    "approximately":true
+  },
+  {
+    "id":18,
+    "commandNumber":18,
+    "command": "folder z książkami",
+    "approximately":false
+  },
+
+  {
+    "id":19,
+    "commandNumber":19,
+    "command": "zapisz folder muzyczny",
+    "approximately":false
+  },
+  {
+    "id":20,
+    "commandNumber":20,
+    "command": "zapisz folder z książkami",
+    "approximately":false
+  },
+  {
+    "id":21,
+    "commandNumber":21,
+    "command": "zadzwoń",
+    "approximately":true
+  },
+  {
+    "id":22,
+    "commandNumber":22,
+    "command": "lista kontaktów",
+    "approximately":false
+  },
+  {
+    "id":23,
+    "commandNumber":23,
+    "command": "kontakt",
+    "approximately":true
+  },
+  {
+    "id":24,
+    "commandNumber":24,
+    "command": "linia książki",
+    "approximately":false
+  },
+  {
+    "id":25,
+    "commandNumber":25,
+    "command": "lista wiadomości",
+    "approximately":false
+  },
+  {
+    "id":26,
+    "commandNumber":26,
+    "command": "wiadomość",
+    "approximately":true
+  },
+  {
+    "id":27,
+    "commandNumber":27,
+    "command": "odpowiedz",
+    "approximately":true
+  },
+  {
+    "id":28,
+    "commandNumber":28,
+    "command": "tak",
+    "approximately":false
+  },
+  {
+    "id":29,
+    "commandNumber":29,
+    "command": "godzina",
+    "approximately":false
+  },
+
+
+
+  {
+    "id":30,
+    "commandNumber":30,
+    "command": "lista subskrypcji",
+    "approximately":false
+  },
+  {
+    "id":31,
+    "commandNumber":31,
+    "command": "lista subskrypcji od",
+    "approximately":true
+  },
+  {
+    "id":21,
+    "commandNumber":21,
+    "command": "subskrypcja",
+    "approximately":true
+  },
+  {
+    "id":33,
+    "commandNumber":33,
+    "command": "lista tematów",
+    "approximately":false
+  },
+  {
+    "id":34,
+    "commandNumber":34,
+    "command": "lista tematów od",
+    "approximately":true
+  },
+  {
+    "id":35,
+    "commandNumber":35,
+    "command": "opis tematu",
+    "approximately":true
+  },
+  {
+    "id":36,
+    "commandNumber":36,
+    "command": "czytaj temat",
+    "approximately":false
+  },
+  {
+    "id":37,
+    "commandNumber":37,
+    "command": "aktualizuj czytnik",
+    "approximately":false
+  },
+  {
+    "id":38,
+    "commandNumber":38,
+    "command": "opowiedz kawał",
+    "approximately":false
+  }
+
+]

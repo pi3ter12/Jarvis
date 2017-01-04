@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Piotr subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="nowe technologie" title="nowe technologie">
+            <outline type="rss" text="Gadżetomania.pl - artykuły i wpisy blogerów" title="Gadżetomania.pl - artykuły i wpisy blogerów" xmlUrl="http://gadzetomania.pl/feed/rss2" htmlUrl="http://gadzetomania.pl/"/>
+
+            <outline type="rss" text="Tabletowo.pl" title="Tabletowo.pl" xmlUrl="http://www.tabletowo.pl/feed/" htmlUrl="http://www.tabletowo.pl"/>
+            <outline type="rss" text="Spider's Web" title="Spider's Web" xmlUrl="http://www.spidersweb.pl/feed" htmlUrl="http://spidersweb.pl/"/>
+            <outline type="rss" text="Komórkomania.pl - artykuły i wpisy blogerów" title="Komórkomania.pl - artykuły i wpisy blogerów" xmlUrl="http://komorkomania.pl/feed/rss2" htmlUrl="http://komorkomania.pl/"/>
+
+            <outline type="rss" text="Android.com.pl" title="Android.com.pl" xmlUrl="http://android.com.pl/feed/" htmlUrl="http://android.com.pl"/>
+        </outline>
+        <outline text="business" title="business">
+            <outline type="rss" text="Paweł Tkaczyk" title="Paweł Tkaczyk" xmlUrl="http://feeds.feedburner.com/PawelTkaczyk" htmlUrl="http://paweltkaczyk.com"/>
+
+            <outline type="rss" text="naTemat.pl - artykuły i wpisy blogerów" title="naTemat.pl - artykuły i wpisy blogerów" xmlUrl="http://natemat.pl/rss/wszystkie" htmlUrl="http://natemat.pl/"/>
+        </outline>
+        <outline type="rss" text="Money.pl" title="Money.pl" xmlUrl="http://www.money.pl/rss/main.xml" htmlUrl="http://www.money.pl/"/>
+    </body>
+</opml>
